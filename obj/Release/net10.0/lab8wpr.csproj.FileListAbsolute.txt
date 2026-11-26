@@ -1,0 +1,15 @@
+C:\Users\s37334\.vscode\vsc\lab8wpr\bin\Release\net10.0\lab8wpr.exe
+C:\Users\s37334\.vscode\vsc\lab8wpr\bin\Release\net10.0\lab8wpr.deps.json
+C:\Users\s37334\.vscode\vsc\lab8wpr\bin\Release\net10.0\lab8wpr.runtimeconfig.json
+C:\Users\s37334\.vscode\vsc\lab8wpr\bin\Release\net10.0\lab8wpr.dll
+C:\Users\s37334\.vscode\vsc\lab8wpr\bin\Release\net10.0\lab8wpr.pdb
+C:\Users\s37334\.vscode\vsc\lab8wpr\obj\Release\net10.0\lab8wpr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37334\.vscode\vsc\lab8wpr\obj\Release\net10.0\lab8wpr.AssemblyInfoInputs.cache
+C:\Users\s37334\.vscode\vsc\lab8wpr\obj\Release\net10.0\lab8wpr.AssemblyInfo.cs
+C:\Users\s37334\.vscode\vsc\lab8wpr\obj\Release\net10.0\lab8wpr.csproj.CoreCompileInputs.cache
+C:\Users\s37334\.vscode\vsc\lab8wpr\obj\Release\net10.0\lab8wpr.sourcelink.json
+C:\Users\s37334\.vscode\vsc\lab8wpr\obj\Release\net10.0\lab8wpr.dll
+C:\Users\s37334\.vscode\vsc\lab8wpr\obj\Release\net10.0\refint\lab8wpr.dll
+C:\Users\s37334\.vscode\vsc\lab8wpr\obj\Release\net10.0\lab8wpr.pdb
+C:\Users\s37334\.vscode\vsc\lab8wpr\obj\Release\net10.0\lab8wpr.genruntimeconfig.cache
+C:\Users\s37334\.vscode\vsc\lab8wpr\obj\Release\net10.0\ref\lab8wpr.dll
